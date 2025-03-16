@@ -10,6 +10,7 @@ int main()
     do
     {
         scanf("%d", &state);
+
     } while (state != 1);
 
     printf("KKKK");
